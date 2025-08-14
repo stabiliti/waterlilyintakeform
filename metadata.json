@@ -1,0 +1,5 @@
+{
+  "name": "Waterlily Intake Form",
+  "description": "A user intake form system for collecting demographic, health, and financial information to predict long-term care needs and costs.",
+  "requestFramePermissions": []
+}
